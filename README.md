@@ -22,3 +22,20 @@
 [IDEA 常用设置](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
 [IDEA 你不知道的小技巧](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
+
+
+
+### 网站软件篇
+
+ [装机必备软件](https://github.com/xiaoxiunique/tool-tips/blob/master/tool/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6.md)
+
+[知道这些网站, 可能你就领先别人一大步](https://github.com/xiaoxiunique/tool-tips/blob/master/tool/%E4%BC%98%E7%A7%80%E7%BD%91%E7%AB%99%E5%90%88%E9%9B%86.md)
+
+
+
+#### 数据库管理工具你们用啥? `Navicat`? 我用 [datagrip](https://www.jetbrains.com/datagrip), 自从我用上这个软件, 就再也没用过`navicat`了, 也颇有心得, 会在后面的时间完善
+
+[用了它, 你的开发速度可能要起飞]()
+
+
+
