@@ -1,178 +1,20 @@
-### idea 快捷键
-#### 通用类快捷键
+### 你本可以朝九晚五......
 
-**方法参数提示**
-```
-ctrl + p
-```
+#### 本项目宗旨: IDEA 从入门到精通 开发效率翻倍
 
-**折叠代码/展开代码**
-```
-ctrl + - / ctrl + +
-```
+项目来源
 
-**展开全部**
+来自本人的一个知乎回答
 
-**全局查找文本**
+[IntelliJ IDEA 中有什么让你相见恨晚的技巧？](https://www.zhihu.com/question/300830746/answer/672248406?utm_source=wechat_session&utm_medium=social&utm_oi=794623637738123264&hb_wx_block=0)
 
-```
-ctrl + shift + F
-```
+平时比较热爱探索idea的快捷之处。更多的喜欢用快捷键进行操作，所以做了很多笔记。个人认为对一个工具熟练之后, 你的编程效率, 和解决问题的效率都能得到大大的提升. 
 
+当时看到这个回答的时候只是非常随意的复制，没有想到的是大家的反响还是不错。我感觉大家好像对某些在我看来非常常用的操作还是很陌生的。于是我后续对他做了完善。便就有了这个项目。 
 
-**快速查找和打开最近使用过的文件码**
-```
-ctrl + E
-```
-
-**自动代码片**
-```
-ctrl + j
-```
-
-**实现接口方法**
-```
-ctrl + i
-```
-
-**查看当前类的子类**
-```
-ctrl + h
-```
-
-**将当前行和下一行进行合并**
-```
-ctrl + shfit + j
-```
-
-
-**将光标跳到当前行的上一行**
-> 有时候在写完一行代码的时候需要添加注释, 或者为类属性添加注释的时候需要跳到当前行的上一行, 这个快捷键就非常方便
-
-```
-ctrl + alt + enter
-```
-
-
-**idea git 提交**
-```
-ctrl + k
-```
-
-**删除当前行**
-```
-ctrl + y
-```
-
-**重写 或者 实现接口或父类方法**
-```
-ctrl + o
-```
-
-**显示类之间的关系**
-```
-ctrl + alt + u
-```
-
-**删除类中没有用到的package**
-```
-ctrl + alt + o
-```
-
-**进入设置界面**
-```
-ctrl + alt + s
-```
-
-
-**在当前光标在的这样一行的下一行添加一行**
-```
-ctrl + shfit + enter
-```
-
-**弹出， 当前类中的方法集合**
-```
-ctrl + F12
-```
-
-**添加书签**
-```
-ctrl + f11
-```
-
-
-**搜索文件**
-```
-ctrl + shift + n
-```
-
-
-**搜索类合**
-```
-ctrl + n
-```
-
-**抽取局部变量**
-```
-ctrl + alt + v
-```
-
-**进入到实现子类中**
-```
-ctrl + alt + b
-```
-
-**格式化代码**
-```
-ctrl + alt + L
-```
-
-**idea 多光标选择**
-```
-按下滚轮上下拖动鼠标即可，
-```
-
-**运行当前类**
-```
-ctrl + shift + F10
-```
-
-**从多项目中启动一个 debug 模式**
-```
-alt + shfit + F9
-```
-
-
-**从多项目中启动一个 正常模式**
-```
-alt + shfit + F10
-```
-
-
-**比较强大的几个快捷键之一  Ctrl + ~(感叹号旁边的按键)**
-```
-ctrl + ~
-```
-**共有五种可供选择的操作**
-
-**Switch Code Formatter (切换代码格式化程序)**
-
-可以在`eclipse`和`idea`的代码格式化之间快速转换
-
-**1. Color Scheme (配色方案)**
-
-可以设置一些常用的配色, 字体样式, 可以一键切换
-
-**2. Code Style Scheme**
-
-
-**3. Keymap (快捷键列表)**
-
-**4. View Mode (显示模式)**
-
-**5. Look and Feel (设置软件主题)**
-
-**idea 调出版本控制操作**
-```
-alt + ~
-```
+### IDEA 
+[IDEA 常用快捷键](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md) 
+[IDEA 版本控制篇](https://github.com/xiaoxiunique/idea-tips/blob/master/idea%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md) 
+[IDEA 装机必备插件](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md) 
+[IDEA 常用设置](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+[IDEA 你不知道的小技巧](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
