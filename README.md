@@ -14,7 +14,11 @@
 
 ### IDEA 
 [IDEA 常用快捷键](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md) 
+
 [IDEA 版本控制篇](https://github.com/xiaoxiunique/idea-tips/blob/master/idea%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md) 
+
 [IDEA 装机必备插件](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md) 
+
 [IDEA 常用设置](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+
 [IDEA 你不知道的小技巧](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
