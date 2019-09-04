@@ -35,7 +35,7 @@
 
 #### 数据库管理工具你们用啥? `Navicat`? 我用 [datagrip](https://www.jetbrains.com/datagrip), 自从我用上这个软件, 就再也没用过`navicat`了, 也颇有心得, 会在后面的时间完善
 
-[用了它, 你的开发速度可能要起飞]()
+[用了它, 你的开发速度可能要起飞](https://github.com/xiaoxiunique/tool-tips/blob/master/GridFlow%20%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
 ### 最后
 希望大家也可以一起分享自己平常在工作中 我们不知道的开发小技巧
