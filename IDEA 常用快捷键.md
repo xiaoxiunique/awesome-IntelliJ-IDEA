@@ -112,39 +112,54 @@ ctrl + alt + o
 ```
 
 
-**进入设置界面**
+
+进入设置界面**
+
 ```
 ctrl + alt + s
 ```
 
 
+
 **在当前光标在的这样一行的下一行添加一行**
+
 ```
 ctrl + shfit + enter
 ```
 
 
+
 **弹出， 当前类中的方法集合**
+
 ```
 ctrl + F12
 ```
 
+
+
 **添加书签**
+
 ```
 ctrl + f11
 ```
 
 
+
 **搜索文件**
+
 ```
 ctrl + shift + n
 ```
 
 
+
 **搜索类合**
+
 ```
 ctrl + n
 ```
+
+
 
 **抽取局部变量**
 
@@ -153,22 +168,42 @@ ctrl + alt + v
 ```
 
 
+
 **进入到实现子类中**
+
 ```
 ctrl + alt + b
 ```
 
 
+
 **格式化代码**
+
 ```
 ctrl + alt + L
 ```
 
 
+
 **idea 多光标选择**
+
 ```
 按下滚轮上下拖动鼠标即可，
 ```
+
+
+
+##### idea 批量修改相同内容
+
+> 有的时候数据需要批量处理, 比如, 正常来说我们的实体类, 在使用`mybatis` 等逆向工程进行生成的时候, 一般属性是有注释的, 但是在针对如果我们使用了`swagger` 等插件需要来显示传递实体所代表的含义的时候, 就需要我们自己一个个的去写, 就会显得异常麻烦
+
+```
+ctrl + alt + shift + j
+```
+
+[演示](http://images.atomblogs.com/test.gif)
+
+
 
 **运行当前类**
 
@@ -176,16 +211,33 @@ ctrl + alt + L
 ctrl + shift + F10
 ```
 
+
+
 **从多项目中启动一个 debug 模式**
+
 ```
 alt + shfit + F9
 ```
 
 
+
 **从多项目中启动一个 正常模式**
+
 ```
 alt + shfit + F10
 ```
+
+
+
+##### 快速的查看选中类, 选中方法的定义
+
+> 有的时候我们不想进入方法内部, 或者进入类的内部查看细节, 想要在外面就探查清楚, 就可以使用此种方法
+
+```java
+ctrl + shift + i
+```
+
+![](http://images.atomblogs.com/20190905083633.png)
 
 
 
@@ -198,27 +250,25 @@ ctrl + ~
 
 **Switch Code Formatter (切换代码格式化程序)**
 
-#### 可以在`eclipse`和`idea`的代码格式化之间快速转换
-
 
 
 **1. Color Scheme (配色方案)**
 
 可以设置一些常用的配色, 字体样式, 可以一键切换
 
+![](http://images.atomblogs.com/test (1).gif)
+
+**2. `Code Style Scheme`**
 
 
-**2. Code Style Scheme**
 
+**3. `Keymap` (快捷键列表)**
 
-
-**3. Keymap (快捷键列表)**
-
-
+![](http://images.atomblogs.com/test (2).gif)
 
 **4. View Mode (显示模式)**
 
-
+![](http://images.atomblogs.com/test (2).gif)
 
 **5. Look and Feel (设置软件主题)**
 
