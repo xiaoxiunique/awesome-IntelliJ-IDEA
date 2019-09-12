@@ -52,7 +52,7 @@
 
 #### 开发资源
 
-[j2ee 资源包整合](链接：https://pan.baidu.com/s/1AF93IgpHxQQlu1zAZwfE6A) 提取码：1q81 
+[j2ee 资源包整合](https://pan.baidu.com/s/1AF93IgpHxQQlu1zAZwfE6A) 提取码：1q81 
 
 ![](http://images.atomblogs.com/20190912174544.png)
 
