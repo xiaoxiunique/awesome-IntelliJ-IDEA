@@ -12,6 +12,8 @@
 
 当时看到这个回答的时候只是非常随意的复制，没有想到的是大家的反响还是不错。我感觉大家好像对某些在我看来非常常用的操作还是很陌生的。于是我后续对他做了完善。便就有了这个项目。 
 
+
+
 ### IDEA 
 [IDEA 常用快捷键](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md) 
 
@@ -31,8 +33,14 @@
 
 [知道这些网站, 可能你就领先别人一大步](https://github.com/xiaoxiunique/tool-tips/blob/master/tool/%E4%BC%98%E7%A7%80%E7%BD%91%E7%AB%99%E5%90%88%E9%9B%86.md)
 
+
+
 ### windows
 [你应该了解的几个 `windows` 的快捷键]()
+
+
+
+
 
 #### `DataGrid` 使用
 
@@ -41,6 +49,16 @@
 [DataGrid 快捷键](https://github.com/xiaoxiunique/tool-tips/blob/master/GridFlow%20%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
 
+
+#### 开发资源
+
+[j2ee 资源包整合](链接：https://pan.baidu.com/s/1AF93IgpHxQQlu1zAZwfE6A) 提取码：1q81 
+
+![](http://images.atomblogs.com/20190912174544.png)
+
+> 是不是每次在新电脑都要各种下载,  `jdk`, `maven`, `tomcat` 等等 各种麻烦
+>
+> `j2ee` 包, 包含了开发中大部分资源包, 包括  `apache-activemq-5.13.2` `apache-maven-3.3.9` `apache-tomcat-8.0.33``eclipse` `HBuilder` `jdk1.7.0_79` `jdk1.8.0_91` `memcached_win32_1.4.5` `mysql-5.7.15-winx64``'Navicat for MySQL'` `nexus` `nginx-1.9.15` `npp.6.9.bin` `redis-2.4.5-win32-win64` `Redis-x64-3.2.100` `sqlite-tools-win32-x86-3140100``'Sublime Text 3x86'` 包含大部分环境, 直接就能开始开发
 
 ### 最后
 
