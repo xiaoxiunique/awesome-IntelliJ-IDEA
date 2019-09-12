@@ -33,6 +33,12 @@
 
 ![](http://images.atomblogs.com/atom/20190831215008.png?img)
 
+
+
+`$$end$$` 可以设置光标结束的位置
+
+
+
 ##### `0x05` 自动导包
 
 > File - Editor- General - Auto Import
