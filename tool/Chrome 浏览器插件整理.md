@@ -1,0 +1,22 @@
+# Chrome 浏览器插件整理
+
+- 广告终结者
+- 开发工具箱
+- Wappalyzer
+- AdBlock
+- FireShot
+- 掘金
+- EverNote
+- OctoTree
+- 谷歌翻译插件
+- Tampermonkey
+- Talent API Tester
+- Dark Reader
+- Enable LiveReload
+- Css Used
+- Grammarly
+- Secure Shell Extension 
+- 扩展管理器
+- Vimium
+- Autopagerize for Chrome
+- IDM Integration Module
