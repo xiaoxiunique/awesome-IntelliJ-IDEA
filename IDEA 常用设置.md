@@ -4,19 +4,19 @@
 
 > File - Settings - Appearance & Behavior - System Settings
 
-![](http://images.atomblogs.com/atom/20190831215246.png?img)
+![setting-multiple.png](http://193.112.98.8/atomImg/setting/setting-multiple.png)
 
 ##### `0x02` 修改IDEA 默认编码 -> UTF-8
 
 > File - Settings - Editor - File Encodings
 
-![](http://images.atomblogs.com/atom/20190831215201.png?img)
+![setting-encoding.png](http://193.112.98.8/atomImg/setting/setting-encoding.png)
 
 ##### `0x03` 设置统一编译器和编译版本
 
 > File - Setting - Build - Compiler - Java Compiler
 
-![](http://images.atomblogs.com/atom/20190831215101.png?img)
+![setting-compiler.png](http://193.112.98.8/atomImg/setting/setting-compiler.png)
 
 ##### `0x04` 设置类注释
 
@@ -31,7 +31,7 @@
 */
 ```
 
-![](http://images.atomblogs.com/atom/20190831215008.png?img)
+![setting-class-comment.png](http://193.112.98.8/atomImg/setting/setting-class-comment.png)
 
 
 
@@ -43,7 +43,7 @@
 
 > File - Editor- General - Auto Import
 
-![](http://images.atomblogs.com/atom/20190831214922.png?img)
+![setting-auto-import.png](http://193.112.98.8/atomImg/setting/setting-auto-import.png)
 
 ##### `0x06` 内存使用量展示
 
@@ -51,7 +51,7 @@
 >
 > File - Settings - Appearance & Behavior
 
-![](http://images.atomblogs.com/atom/20190831214841.png?img)
+![setting-use-memory.png](http://193.112.98.8/atomImg/setting/setting-use-memory.png)
 
 ![](http://images.atomblogs.com/atom/20190831212401.png?img)
 
@@ -61,7 +61,7 @@
 >
 > File - Settings - Editor - General
 
-![](http://images.atomblogs.com/atom/20190831214746.png?img)
+![setting-enable-hover-tip.png](http://193.112.98.8/atomImg/setting/setting-enable-hover-tip.png)
 
 ##### `0x08` Ctrl+鼠标滚轴修改字体大小
 
@@ -69,7 +69,7 @@
 >
 > File-->Settings-->Editor-->General。
 
-![](http://images.atomblogs.com/atom/20190831214634.png?img)
+![setting-mouse-change-font.png](http://193.112.98.8/atomImg/setting/setting-mouse-change-font.png)
 
 ##### `0x09` 显示多行Tab
 
@@ -77,25 +77,25 @@
 >
 > File - Settings - Editor - General - Editor Tabs
 
-![](http://images.atomblogs.com/atom/20190831214549.png?img)
+![setting-multiple-tab.png](http://193.112.98.8/atomImg/setting/setting-multiple-tab.png)
 
 ##### `0x0A` 设置字体, 行距 让代码看着更舒服
 
 > File - Settings - Editor - Font
 
-![](http://images.atomblogs.com/atom/20190831214436.png?img)
+![setting-change-font-padding.png](http://193.112.98.8/atomImg/setting/setting-change-font-padding.png)
 
 ##### `0x0B` IDEA GIT 配置
 
 >  File - Settings - Version Control - Git
 
-![1567258533614](C:\Users\atom.hu\AppData\Roaming\Typora\typora-user-images\1567258533614.png)
+![setting-git-config.png](http://193.112.98.8/atomImg/setting/setting-git-config.png)
 
 ##### `0X0C` IDEA MAVEN 配置
 
 > File - Settings - Build - Build Tools - Maven
 
-#####  ![](http://images.atomblogs.com/atom/20190831213722.png?img)
+#####  ![setting-maven-setting.png](http://193.112.98.8/atomImg/setting/setting-maven-setting.png)
 
 maven 阿里镜像配置
 

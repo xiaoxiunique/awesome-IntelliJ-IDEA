@@ -2,15 +2,17 @@
 
 ### 查看每一行代码的条件人, 提交时间（大部分人不知道）
 
-![](http://images.atomblogs.com/atom/20190831232920.png?img)
+
+
+![git-annotate.png](http://193.112.98.8/atomImg/git/git-annotate.png)
 
 **选择后入下图所示**
 
-![](http://images.atomblogs.com/atom/20190831233045.png?img)
+![git-annotate1.png](http://193.112.98.8/atomImg/git/git-annotate1.png)
 
 **鼠标移动上去还能看到提交详细信息**
 
-![](http://images.atomblogs.com/atom/20190831233128.png?img)
+![git-annotate-show-msg.png](http://193.112.98.8/atomImg/git/git-annotate-show-msg.png)
 
 
 ### 克隆远程代码
@@ -19,13 +21,13 @@
 
 常规操作
 
-![](http://images.atomblogs.com/atom/20190831222959.png?img)
+![git-clone.png](http://193.112.98.8/atomImg/git/git-clone.png)
 
 
 
 **装逼操作** 
 
-![](http://images.atomblogs.com/atom/20190831224710.png?img)
+![git-clone-action.png](http://193.112.98.8/atomImg/git/git-clone-action.png)
 
 
 
@@ -33,7 +35,7 @@
 
 > git pull 
 
-![](http://images.atomblogs.com/atom/20190831230337.png?img)
+![git-pull.png](http://193.112.98.8/atomImg/git/git-pull.png)
 
 
 
@@ -49,15 +51,15 @@ ctrl + t
 
 > git commit -m 'message'
 
-![](http://images.atomblogs.com/atom/20190831225053.png?img)
+![git-commit.png](http://193.112.98.8/atomImg/git/git-commit.png)
 
-![](http://images.atomblogs.com/atom/20190831225815.png?img)
+![git-commit-t.png](http://193.112.98.8/atomImg/git/git-commit-t.png)
 
 ### 将本地库 提交到远程库 
 
 > git push
 
-![](http://images.atomblogs.com/atom/20190831225953.png?img)
+![git-push.png](http://193.112.98.8/atomImg/git/git-push.png)
 
 
 
@@ -77,7 +79,7 @@ alt + 1 + 8
 
 ### 切换分支, 或拉取远程分支
 
-![](http://images.atomblogs.com/atom/20190831230631.png?img)
+![git-branch.png](http://193.112.98.8/atomImg/git/git-branch.png)
 
 以下提供几种快捷方式
 
@@ -93,7 +95,7 @@ alt + ~ + 7
 
 或
 
-![](http://images.atomblogs.com/atom/20190831230929.png?img)
+![git-branch-btn.png](http://193.112.98.8/atomImg/git/git-branch-btn.png)
 
 ###  查看当前打开类 历史记录
 
@@ -113,5 +115,5 @@ alt + ~ + 4
 
 或 `alt + 9` 切换到 `Version Control` 面板 选择log
 
-![](http://images.atomblogs.com/atom/20190831231444.png?img)
+![git-version.png](http://193.112.98.8/atomImg/git/git-version.png)
 
