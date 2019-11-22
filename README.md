@@ -4,7 +4,7 @@
 
 本项目宗旨: IDEA 从入门到精通 开发效率翻倍
 
-### ​项目由来:books:
+### 项目由来:books:
 
 来自本人的一个知乎回答:question:
 
@@ -29,7 +29,8 @@
 
 :two:  ​[IDEA 版本控制篇](https://github.com/xiaoxiunique/idea-tips/blob/master/idea%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md) 
 
-:three:  [IDEA 装机必备插件](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md) 
+:three:  [IDEA 装机必备插件](https://github.com/xiaoxiunique/tooltips/blob/master/IDEA%20%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.md) 
+
 
 :four:  [IDEA 常用设置](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
