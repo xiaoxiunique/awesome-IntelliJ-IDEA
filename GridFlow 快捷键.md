@@ -90,4 +90,19 @@
 
 
 
-### 
+###  快速对比两个数据库差异
+
+> 这个是真神器了, 在上线时对比测试环境和生产环境数据库之间存在的差异
+
+按住 `ctrl` 选中要对比的数据库, 按 `ctrl + d`即可对比,
+
+可以查看两个数据库之间的差距, 并生成对应的 `sql`
+
+![](https://raw.githubusercontent.com/xiaoxiunique/Web-Tip/master/20191119085055.png)
+
+![](https://raw.githubusercontent.com/xiaoxiunique/Web-Tip/master/20191119085358.png)
+
+点击`Migrate Left` , 生成转化为右侧表对应的`Sql`
+
+![](https://raw.githubusercontent.com/xiaoxiunique/Web-Tip/master/20191119085648.png)
+
