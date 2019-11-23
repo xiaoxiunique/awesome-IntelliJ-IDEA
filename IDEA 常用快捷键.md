@@ -281,7 +281,7 @@ ctrl + shift + F9
 ctrl + shift + i
 ```
 
-![](http://images.atomblogs.com/20190905083633.png)
+![asdf](http://193.112.98.8/atomImg/key/ctrl-shift-i.png)
 
 
 
@@ -294,13 +294,13 @@ ctrl + ~
 
 **Switch Code Formatter (切换代码格式化程序)**
 
-
-
 **1. Color Scheme (配色方案)**
 
 可以设置一些常用的配色, 字体样式, 可以一键切换
 
-![](http://images.atomblogs.com/test (1).gif)
+![asdf](http://193.112.98.8/atomImg/key/ctrl-~-change-background.gif)
+
+
 
 **2. `Code Style Scheme`**
 
@@ -308,11 +308,11 @@ ctrl + ~
 
 **3. `Keymap` (快捷键列表)**
 
-![](http://images.atomblogs.com/test (2).gif)
+![asdf](http://193.112.98.8/atomImg/key/ctrl-~-keymap.gif)
 
 **4. View Mode (显示模式)**
 
-![](http://images.atomblogs.com/test (2).gif)
+![asdf](http://193.112.98.8/atomImg/key/ctrl-~-view-model.gif)
 
 **5. Look and Feel (设置软件主题)**
 

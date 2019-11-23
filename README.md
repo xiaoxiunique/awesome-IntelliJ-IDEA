@@ -38,6 +38,60 @@
 
 
 
+#### 快速打开最近打开过的项目
+
+> `ctrl + shift + a`  输入 `open recent` , 输入项目名
+
+![](http://193.112.98.8/atomImg/key/ctrl_shift_a_open_recent_project.gif)
+
+#### 快速克隆项目
+
+> `ctrl + shift +a` 输入 `git clone`
+
+![](http://193.112.98.8/atomImg/key/ctrl_shift_a_git_clone.gif)
+
+#### 快速找到当前类所在位置(90%的人不知道)
+
+> `alt + f1` 选择 `project view`
+
+![](http://193.112.98.8/atomImg/key/ctrl_f1_class_position.gif)
+
+#### 将当前操作类在文件夹中打开 (**超有用:cow::beer:**)
+
+> `alt + f1`选择  `show in explorer`
+
+![](http://193.112.98.8/atomImg/key/ctrl_f1_show_in_explorer.gif)
+
+#### 快速进入maven 设置页面
+
+> `ctrl + shift + a`  输入`maven setting`
+
+![](http://193.112.98.8/atomImg/key/fast-open-maven-setting.gif)
+
+#### 快速打开 maven 项目
+
+> `ctrl + shift + a` 输入 `add maven project`
+
+![](http://193.112.98.8/atomImg/key/fast-open-add-maven-project.gif)
+
+#### 快速进入 `plugins` 安装界面
+
+> `ctrl + shift + a `输入` plugins`
+
+![](http://193.112.98.8/atomImg/key/fast-open-plugins.gif)
+
+#### 快速导入导出idea设置
+
+> `ctrl + shift + a` 输入 `import setting` `export setting`
+
+![](http://193.112.98.8/atomImg/key/fast-import-setting-and-export-setting.gif)
+
+#### 快速导出官方快捷键图片
+
+> `ctrl + shift + a` 输入 `key reference`
+
+![](http://193.112.98.8/atomImg/key/ctrl-~-keymap.gif)
+
 ### 网站软件篇 :cow::beer:
 
 > 这里面记录了本人工作以来记录的所有提升开发效率的工具, 和网站
@@ -45,74 +99,6 @@
  [装机必备软件](https://github.com/xiaoxiunique/tool-tips/blob/master/tool/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6.md)
 
 [知道这些网站, 可能你就领先别人一大步](https://github.com/xiaoxiunique/tool-tips/blob/master/tool/%E4%BC%98%E7%A7%80%E7%BD%91%E7%AB%99%E5%90%88%E9%9B%86.md)
-
-### 网站
-
-[蓝湖 - 高效的产品设计协作平台](https://lanhuapp.com/?https%3A%2F%2Fwww.baidu.com%2Flink%3Furl=W0kK5yCwWk_c0S9EePkqSxlWFDCuj3XjRYo0Iu5XlkMNIY4HlfyxqhIeT4czq0pb&ck=745.1.99.238.153.248.142.166&shh=www.baidu.com&sht=baiduhome_pg&wd=&eqid=dbc0146c00089bc4000000045b62ac99)
-
-  > 简单好用的团队工作台, 无缝连接产品、设计、研发流程，降低沟通成本，缩短开发周期，提高工作效率, 拿到美工给出的`PSD`, 通过`PS`上传到蓝湖官网, 自动分析出像素大小, 边框颜色, 背景颜色, 字体大小等, 开发效率翻倍
-
-[imgcook 由设计稿一键智能生成代码的大厨](https://imgcook.taobao.org/)
-
-  > [官网](https://imgcook.taobao.org/) 由设计稿一键智能生成代码的大厨，导入`psd`文件，一键生成个个框架对应的代码。
-
-[Pulsation loader](https://scrimba.com/c/cnMgQTr)
-
-[Disqus - The #1 way to build an audience on your website](https://disqus.com/)
-
-  > 互联网上最受欢迎的评论插件使得发布者可以很容易地将他们的内容带到生活中，推动丰富多彩的讨论，有效地温和评论，并构建参与其中的社区
-
-[Frontend Masters — Learn JavaScript, React, Vue & Angular from Masters of Front-End Development!](https://frontendmasters.com/)
-
-[dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home)
-
-  > 通过简单的`sql`语句, 构建出表与表之间的关系, 方便对于业务的理解
-
-[Carbon](https://carbon.now.sh)
-
-  > 通过代码生成图片(目前我知道有这功能)
-
-[Recent Sandboxes - CodeSandbox](https://codesandbox.io/dashboard/recent)
-
-  > 浏览器在线编辑器, 支持`Vue`, `React`, `Web`, `Angular`, 可以直接关联`github.com`, 真正实现开发就只需要一个浏览器而已
-
-[我的新思维导图 - MindMeister 思维导图](https://www.mindmeister.com/1269177234)
-
-  > 思维导图工具
-
-[CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.dev/)
-
-  > 精心设计的系列，注重流动性、简洁性和易用性。由`css`支持，标记最少。完全开放源码和麻省理工学院许可。
-
-[正版中国 | 正版软件限时免费](https://getitfree.cn/)
-
-[吾道-文档中心](https://www.woodo.cn/home/)
-
-[Awesomes-Web前端开发资源库](https://www.awesomes.cn/)
-
-[重磅教程！帮你全面彻底搞定Material design的学习笔记 - 优设网 - UISDC](http://www.uisdc.com/comprehensive-material-design-note)
-
-[Cupcake - Royalty free images for commercial use](http://cupcake.nilssonlee.se/)
-
-[Streetwill | Free Hi-Res Photos.](http://streetwill.co/)
-
-[Color](https://color.adobe.com/zh/create)
-
-[xiaoxiunique - StackBlitz](https://stackblitz.com/@xiaoxiunique)
-
-  > 在线编辑器
-
-[蚂蚁数据可视化 - AntV](https://antv.antfin.com/zh-cn/index.html)
-
-[PAYJQ](https://www.payjq.cn/#price)
-
-[Crx4Chrome - Download CRX for Chrome Apps & Extensions](https://www.crx4chrome.com/)
-
-> 谷歌扩展, 国内下载地址
-
-[Linux命令搜索引擎 命令，Linux Linux命令搜索引擎 命令详解：最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - Linux 命令搜索引擎](https://wangchujiang.com/linux-command/)
-
-
 
 ### 资源
 
