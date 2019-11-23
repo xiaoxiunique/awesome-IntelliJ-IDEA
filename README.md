@@ -90,7 +90,7 @@
 
 > `ctrl + shift + a` 输入 `key reference`
 
-![](http://193.112.98.8/atomImg/key/ctrl-~-keymap.gif)
+![](http://193.112.98.8/atomImg/key/fast-import-key-reference.gif)
 
 ### 网站软件篇 :cow::beer:
 
