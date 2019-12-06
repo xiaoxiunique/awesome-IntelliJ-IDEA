@@ -36,6 +36,34 @@
 
 :five:  ​[IDEA 你不知道的小技巧](https://github.com/xiaoxiunique/idea-tips/blob/master/IDEA%20%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
 
+### 条件断点 调试效率翻倍  :star::star::star::star::star:
+
+> 在选择断点后, 在断点处右键添加断点条件.  调试效率翻倍
+
+![](http://193.112.98.8/atomImg/key/debug-breakpoint.gif)
+
+
+
+### 超级好用的快捷键, 全局选中 ctrl + shift + alt + j :star::star::star::star::star:
+
+> 个人经常用在前后端对接接口时, 为前端提供 `swagger`接口时, 批量将实体注释转换为 `ApiModelProperty`
+
+![](http://193.112.98.8/atomImg/key/ctrl_alt_shift_j.gif)
+
+
+
+###  更加优雅的添加实体注释 :star::star::star::star:
+
+> 输入完实体后 `ctrl + alt + enter`
+
+![](http://193.112.98.8/atomImg/key/ctrl_alt_enter.gif)
+
+### 批量修改相同的内容 :star::star::star::star::star::star:
+
+> 选中相同的元素  `alt + j`
+
+![](http://193.112.98.8/atomImg/key/alt_j_batch_update.gif)
+
 
 
 #### 快速打开最近打开过的项目

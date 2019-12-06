@@ -20,30 +20,29 @@
 
 在安装完成之后, 在工具栏中就会出现阿里云的按钮, **点击按钮**
 
-![](http://images.atomblogs.com/atom/20190831235312.png?img)
-
+![](http://193.112.98.8/atomImg/plugins/20190831235312.png?img)
 
 然后点击 `Deploy to Host`, 然后下方就会出现添加主机页面
-![](http://images.atomblogs.com/atom/20190831235513.png?img)
+![](http://193.112.98.8/atomImg/plugins/20190831235513.png?img)
 
 
 点击 `Add Host`
 
-![](http://images.atomblogs.com/atom/20190831235536.png?img)
+![](http://193.112.98.8/atomImg/plugins/20190831235536.png?img)
 
 以我自己的[博客](www.atomblogs.com)为例, 输入完配置之后, 点击 `Test Connection`, 出现 `Succeeded`, 点击 `add`, 代表添加成功
 
-![](http://images.atomblogs.com/atom/20190831235554.png?img)
+![](http://193.112.98.8/atomImg/plugins/20190831235554.png?img)
 
 然后再点击 `Deploy to Host`
 
-![](http://images.atomblogs.com/atom/20190831235602.png?img)
+![](http://193.112.98.8/atomImg/plugins/20190831235602.png?img)
 
 点击`Run`, `idea` 便会, 先使用`maven`打包, 后发送到服务器的指定位置
 
-![](http://images.atomblogs.com/atom/20190831235612.png?img)
+![](http://193.112.98.8/atomImg/plugins/20190831235612.png?img)
 
-![](http://images.atomblogs.com/atom/20190831235621.png?img)
+![](http://193.112.98.8/atomImg/plugins/20190831235621.png?img)
 
 后续还可以 监听启动日志, 很简单, 就是 `Advanced` 里面, 大家看看就知道了, 
 后续有时间再完善笔记吧
@@ -74,7 +73,7 @@ Alibaba Java Coding Guidelines
 
   > 如上所示, 定义了一个 `String`  类型的变量 `MyStudent`, 而在编辑器中就会出现如下效果
 
-  ![](http://images.atomblogs.com/20190917090222.png)
+  ![](http://193.112.98.8/atomImg/plugins/alibaba_lowerCameCase.png)
 
   当鼠标移到变量上时, 就会自动提示 不符合 `lowerCamelCase`命名风格
 
@@ -92,7 +91,7 @@ Alibaba Java Coding Guidelines
 
   > 当我们初学 `java`时, 很有可能会犯这样的错误, 这里很明显会报空指针异常, 而在编辑器中
 
-  ![](http://images.atomblogs.com/20190917090706.png)
+  ![](http://193.112.98.8/atomImg/plugins/alibaba_equals.png)
 
   > 安装插件之后, 编辑器已经给出详细提示,` "test“` 应该做为 `equals`方法的调用方, 并给出了原因, 应为这样很容易导致空指针异常, 并给出了例子
 
@@ -120,7 +119,7 @@ Free Mybatis plugin
 
 > 安装此插件后可以节约很多的开发时间,  在 `mapper` 层接口可以直接进入 `xml`文件中
 
-### ~插件**
+### 插件
 
 ```
 IntelliJ Lombok plugin
@@ -184,6 +183,12 @@ IntelliJ Lombok plugin
 把 `Mybatis` 输出的`sql`日志还原成完整的`sql`语句，看起来更直观。
 
 
+
+### GsonFormat 
+
+>快速的讲一个 `json `转换为一个实体  安装完插件后 `alt + s` 放入正确的 `json `格式
+
+![](http://193.112.98.8/atomImg/plugins/gson_use.gif)
 
 ### `VisualVm Launcher`
 
