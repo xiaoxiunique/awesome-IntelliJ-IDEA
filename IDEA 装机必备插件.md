@@ -1,5 +1,5 @@
 
-### idea 插件
+## idea 插件
 
 ### **Alibaba Cloud Toolkit**
 
@@ -196,3 +196,55 @@ IntelliJ Lombok plugin
 >
 > 某个对象占用了多大的内存，`jvm`调优必备工具
 
+
+
+### jclasslib bytecode viewer
+
+> 一款可视化的字节码查看插件
+
+
+
+### Codota
+
+> 支持智能代码自动提示，该功能可以增强 IDEA 的代码提示功能；
+>
+> 支持 JDK 和知名第三方库的函数的使用方法搜索，可以看到其他知名开源项目对该函数的用法。
+
+当我们第一次使用某个类，对某个函数不够熟悉时，可以通过该插件搜索相关用法，快速模仿学习。
+
+
+
+### Auto filling Java call arguments
+
+> 开发中，我们通常会调用其它已经编写好的函数，调用后需要填充参数，但是绝大多数情况下，传入的变量名称和该函数的参数名一致，当参数较多时，手动单个填充参数非常浪费时间。
+>
+> 该插件就可以帮你解决这个问题。
+>
+> 安装完该插件以后，调用一个函数，使用 Alt+Enter 组合键，调出 “Auto fill call parameters” 自动使用该函数定义的参数名填充。
+
+### Rainbow Brackets
+
+> 由于很多人没有养成好的编码风格，没有随手 format 代码的习惯，甚至有些同事会写代码超过几百行，阅读起来将非常痛苦。
+>
+> 痛苦的原因之一就是找到上下文，由于括号太多，不确定当前代码行是否属于某个代码块，此时这个插件就会帮上大忙。
+
+### SequenceDiagram
+
+> SequenceDiagram 可以根据代码调用链路自动生成时序图，超级赞，超级推荐！
+>
+> 这对研究源码，梳理工作中的业务代码有极大的帮助，堪称神器。
+>
+> 安装完成后，在某个类的某个函数中，右键 --> Sequence Diagaram 即可调出。
+
+
+
+###  Java Stream Debugger
+
+> Stream 非常好用，可以灵活对数据进行操作，但是对很多刚接触的人来说，不好理解。
+>
+> 那么 Java Stream Debugger 这款神器的 IDEA 就可以帮到你。它可以将 Stream 的操作步骤可视化，非常有助于我们的学习。
+
+![](https://raw.githubusercontent.com/xiaoxiunique/Web-Tip/master/20191218095618.png)
+
+[插件下载地址](文档：IDEA 插件离线包.note
+链接：http://note.youdao.com/noteshare?id=27b8552ba1bd2040235c5e308e7def1c&sub=D458C1C0BB3D402B982F47D03863066A)
