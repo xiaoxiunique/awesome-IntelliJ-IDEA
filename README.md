@@ -205,11 +205,11 @@
 
 
 
-#### `DataGrid` 使用
+#### `DataGrip` 使用
 
 > 数据库管理工具你们用啥? `Navicat`? 我用 [datagrip](https://www.jetbrains.com/datagrip), 自从我用上这个软件, 就再也没用过`navicat`了, 也颇有心得, 会在后面的时间完善
 
-[DataGrid 快捷键](https://github.com/xiaoxiunique/tool-tips/blob/master/GridFlow%20%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
+[DataGrip 快捷键](https://github.com/xiaoxiunique/tool-tips/blob/master/GridFlow%20%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
 
 
