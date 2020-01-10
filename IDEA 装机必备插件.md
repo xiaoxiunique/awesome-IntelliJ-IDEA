@@ -228,6 +228,8 @@ IntelliJ Lombok plugin
 >
 > 痛苦的原因之一就是找到上下文，由于括号太多，不确定当前代码行是否属于某个代码块，此时这个插件就会帮上大忙。
 
+
+
 ### SequenceDiagram
 
 > SequenceDiagram 可以根据代码调用链路自动生成时序图，超级赞，超级推荐！
@@ -236,7 +238,9 @@ IntelliJ Lombok plugin
 >
 > 安装完成后，在某个类的某个函数中，右键 --> Sequence Diagaram 即可调出。
 
+<img src="https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200110105339.png" style="zoom:80%;" />
 
+![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200110105311.png)
 
 ###  Java Stream Debugger
 
@@ -246,5 +250,16 @@ IntelliJ Lombok plugin
 
 ![](https://raw.githubusercontent.com/xiaoxiunique/Web-Tip/master/20191218095618.png)
 
+
+
+### Arthas Idea
+
+> 阿里开源线上诊断工具 Arthas 的Idea扩展插件, 由于直接通过输入命令的方式有诸多弊端,  大牛开发了这款插件, 可以快速的实现代码的 watch , trace , install  等操作
+
+![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200110105241.png)
+
+
+
 [插件下载地址](文档：IDEA 插件离线包.note
 链接：http://note.youdao.com/noteshare?id=27b8552ba1bd2040235c5e308e7def1c&sub=D458C1C0BB3D402B982F47D03863066A)
+
