@@ -228,7 +228,7 @@ IntelliJ Lombok plugin
 >
 > 痛苦的原因之一就是找到上下文，由于括号太多，不确定当前代码行是否属于某个代码块，此时这个插件就会帮上大忙。
 
-
+![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200110105809.png)
 
 ### SequenceDiagram
 
