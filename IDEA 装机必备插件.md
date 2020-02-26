@@ -146,7 +146,7 @@ IntelliJ Lombok plugin
 
 
 
-**`GenAllSetter` 特性**
+### **`GenAllSetter` 特性**
 
 在`Java`方法中, 根据 `new` 关键词, 为`Java Bean` 生成所有`Setter`方法。
 
@@ -154,31 +154,31 @@ IntelliJ Lombok plugin
 
 
 
-**`GenDaoCode`**
+### **`GenDaoCode`**
 
 一键生成 `dao` `xml` `service`
 
 
 
-`CodeGlance`
+### `CodeGlance`
 
 在右侧生成代码地图
 
+![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200110114623.png)
 
-
-`**RestfulToolkit**`
+### **RestfulToolkit**
 
 `RequestMapping搜索神器`
 
 
 
-**`Grep Console`**
+### **`Grep Console`**
 
 高亮`log`不同级别日志，看日志的时候一目了然。
 
 
 
-`MyBatis Log Plugin`
+### `MyBatis Log Plugin`
 
 把 `Mybatis` 输出的`sql`日志还原成完整的`sql`语句，看起来更直观。
 
