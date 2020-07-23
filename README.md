@@ -50,6 +50,8 @@
 
 😁 [VsCode 插件 PlantUML](https://atips.cn/idea/VsCode%20%E6%8F%92%E4%BB%B6%20PlantUML.html)
 
+😂 [VsCode 多光标操作集锦](https://atips.cn/idea/VsCode%20多光标操作集锦.htm)
+
 
 
 #### 条件断点 调试效率翻倍 :star::star::star::star::star:
