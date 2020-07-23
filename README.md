@@ -1,4 +1,4 @@
-![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200226114101.png)
+<img src="https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200226114101.png" style="zoom:80%;" />
 
 ![](https://img.shields.io/github/stars/xiaoxiunique/tool-tips?style=social)![](https://img.shields.io/github/forks/xiaoxiunique/tool-tips?style=social)![](https://img.shields.io/github/watchers/xiaoxiunique/tool-tips?style=social)
 
@@ -7,7 +7,7 @@
 本项目宗旨: IDEA 从入门到精通 开发效率翻倍
 
 ### 项目由来:books:
- 
+
 来自本人的一个知乎回答:question:
 
 [IntelliJ IDEA 中有什么让你相见恨晚的技巧？](https://www.zhihu.com/question/300830746/answer/672248406?utm_source=wechat_session&utm_medium=social&utm_oi=794623637738123264&hb_wx_block=0)
@@ -39,6 +39,18 @@
 :six: [IDEA 这么好看的字体，不了解下吗？IDEA 配置 JetBrains Mono](https://atips.cn/idea/IDEA%20新字体%20JetBrainsMono.html)
 
 :seven: [IDEA Mac 和 Windows 快捷键对比](https://atips.cn/idea/IDEA%20Windows%20Mac%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%B9%E6%AF%94.html)
+
+:eight: [IDEA 插件 Git Flow](https://atips.cn/idea/IDEA%20%E6%8F%92%E4%BB%B6%20Git%20Flow.html)
+
+:nine: [IDEA Windows Terminal 配置](https://atips.cn/idea/IDEA%20Windows%20Terminal%20%E9%85%8D%E7%BD%AE.html)
+
+:keycap_ten: [DataGrip 快捷键](https://atips.cn/idea/DataGrip%20%E5%BF%AB%E6%8D%B7%E9%94%AE.html)
+
+😀 [VsCode 快捷键](https://atips.cn/idea/VSCODE%20%E5%BF%AB%E6%8D%B7%E9%94%AE.html)
+
+😁 [VsCode 插件 PlantUML](https://atips.cn/idea/VsCode%20%E6%8F%92%E4%BB%B6%20PlantUML.html)
+
+
 
 #### 条件断点 调试效率翻倍 :star::star::star::star::star:
 
