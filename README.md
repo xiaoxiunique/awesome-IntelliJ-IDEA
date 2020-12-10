@@ -22,7 +22,9 @@
 * 💪 IntelliJ IDEA
 * 🔥  JetBrains
 
+<br/>
 
+<br/>
 
 ## 项目由来 🙋🏻‍♂️
 
@@ -34,13 +36,17 @@
 
 当时看到这个回答的时候只是非常随意的复制:grimacing:，没有想到的是大家的反响还是不错:blush:。我感觉大家好像对某些在我看来非常常用的操作还是很陌生的:sweat_smile:。于是我后续对他做了完善。便就有了这个项目:sunglasses:。
 
+<br/>
 
+<br/>
 
 ## 文档 (Document) 📋
 
 > 温馨提示：Github 上直接浏览，因网络问题可能有的图片展示不出来，可以考虑 Clone 到本地进行查看。
 
+<br/>
 
+<br/>
 
 ### 入门 👶🏻
 
@@ -54,7 +60,9 @@
 - [Intellij IDEA 配置颜色和字体](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20%E9%85%8D%E7%BD%AE%E9%A2%9C%E8%89%B2%E5%92%8C%E5%AD%97%E4%BD%93.md)
 - [Intellij IDEA 设置背景图片](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20%E8%AE%BE%E7%BD%AE%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%87.md)
 
+<br/>
 
+<br/>
 
 ### 熟练 👦🏻
 
@@ -67,12 +75,18 @@
 - [Intellij IDEA 常用快捷键](https://github.com/xiaoxiunique/tool-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 - [Intellij IDEA Windows Mac 快捷键对比](https://github.com/xiaoxiunique/tool-tips/blob/master/IDEA%20Windows%20Mac%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%B9%E6%AF%94.md) 
 
+<br/>
+
+<br/>
+
 ### 精通 👨🏻
 
 - Intellij IDEA Debug 精通
 - Intellij IDEA GIT 精通
 
+<br/>
 
+<br/>
 
 ### 超神 👴🏻
 
@@ -80,7 +94,9 @@
 - [Intellij IDEA VCS 操作器](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20VCS%20%E6%93%8D%E4%BD%9C%E5%99%A8.md)
 - [Intellij IDEA QuickList](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20QuickList.md)
 
+<br/>
 
+<br/>
 
 ### 插件
 
@@ -95,7 +111,9 @@
 - [Intellij IDEA 插件 GsonFormat](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20%E6%8F%92%E4%BB%B6%20GsonFormat.md)
 - [Intellij IDEA 插件 jclasslib bytecode viewer](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij IDEA 插件 jclasslib bytecode viewer.md)
 
+<br/>
 
+<br/>
 
 ### 多光标练习小课堂
 
@@ -107,13 +125,17 @@
 - Intellij IDEA 多光标练习第四课，交头接耳
 - Intellij IDEA 多光标练习作业
 
+<br/>
 
+<br/>
 
 ### 白嫖 下次一定
 
 - Intellij IDEA 全部插件下载汇总
 
+<br/>
 
+<br/>
 
 ## 联系(Contact)
 
