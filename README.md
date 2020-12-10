@@ -67,7 +67,7 @@
 - [Intellij IDEA 常用快捷键](https://github.com/xiaoxiunique/tool-tips/blob/master/IDEA%20%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 - [Intellij IDEA Windows Mac 快捷键对比](https://github.com/xiaoxiunique/tool-tips/blob/master/IDEA%20Windows%20Mac%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%AF%B9%E6%AF%94.md) 
 
-### **精通 **👨🏻
+### 精通 👨🏻
 
 - Intellij IDEA Debug 精通
 - Intellij IDEA GIT 精通
@@ -93,7 +93,7 @@
 - [Intellij IDEA 插件 Lombok](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20%E6%8F%92%E4%BB%B6%20Lombok.md)
 - [Intellij IDEA 插件 Codota](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20%E6%8F%92%E4%BB%B6%20Codota.md)
 - [Intellij IDEA 插件 GsonFormat](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20%E6%8F%92%E4%BB%B6%20GsonFormat.md)
-- [Intellij IDEA 插件 jclasslib bytecode viewer]([Intellij IDEA 插件 jclasslib bytecode viewer.md](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij IDEA 插件 jclasslib bytecode viewer.md))
+- [Intellij IDEA 插件 jclasslib bytecode viewer](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij IDEA 插件 jclasslib bytecode viewer.md)
 
 
 
