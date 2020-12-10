@@ -24,8 +24,6 @@
 
 <br/>
 
-<br/>
-
 ## 项目由来 🙋🏻‍♂️
 
 来自本人的一个知乎回答:question:
@@ -38,13 +36,9 @@
 
 <br/>
 
-<br/>
-
 ## 文档 (Document) 📋
 
 > 温馨提示：Github 上直接浏览，因网络问题可能有的图片展示不出来，可以考虑 Clone 到本地进行查看。
-
-<br/>
 
 <br/>
 
@@ -62,8 +56,6 @@
 
 <br/>
 
-<br/>
-
 ### 熟练 👦🏻
 
 - [Intellij IDEA View Mode](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20View%20Mode.md)
@@ -77,14 +69,10 @@
 
 <br/>
 
-<br/>
-
 ### 精通 👨🏻
 
 - Intellij IDEA Debug 精通
 - Intellij IDEA GIT 精通
-
-<br/>
 
 <br/>
 
@@ -93,8 +81,6 @@
 - [Intellij IDEA 多光标操作集锦](https://atips.cn/idea/VsCode%20%E5%A4%9A%E5%85%89%E6%A0%87%E6%93%8D%E4%BD%9C%E9%9B%86%E9%94%A6.html)
 - [Intellij IDEA VCS 操作器](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20VCS%20%E6%93%8D%E4%BD%9C%E5%99%A8.md)
 - [Intellij IDEA QuickList](https://github.com/xiaoxiunique/tool-tips/blob/master/Intellij%20IDEA%20QuickList.md)
-
-<br/>
 
 <br/>
 
@@ -113,8 +99,6 @@
 
 <br/>
 
-<br/>
-
 ### 多光标练习小课堂
 
 授人以鱼不如授人以渔，在和同事们接触发现，在我最开始为他们演示多光标的时候。大多两眼放光，但后面自己操作的时候，瞬间感觉自己身体都不协调了。所以这里循序渐进进行练习，希望大家都能学会，提升工作效率。
@@ -127,13 +111,9 @@
 
 <br/>
 
-<br/>
-
 ### 白嫖 下次一定
 
 - Intellij IDEA 全部插件下载汇总
-
-<br/>
 
 <br/>
 
