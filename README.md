@@ -113,7 +113,7 @@
 
 ### 白嫖 下次一定
 
-- Intellij IDEA 全部插件下载汇总
+- [Intellij IDEA 全部插件下载汇总](https://github.com/xiaoxiunique/tool-tips/tree/master/plugins)
 
 <br/>
 
