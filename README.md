@@ -62,7 +62,7 @@
 
 - [Intellij IDEA Windows Terminal 配置](https://atips.cn/idea/IDEA%20Windows%20Terminal%20%E9%85%8D%E7%BD%AE.html#%E8%AE%BE%E7%BD%AE) 
 - [Intellij IDEA Appearance 工具窗口](idea-appearance-tool-windows.md) 
-- Intellij IDEA Debug 入门
+- [Intellij IDEA Debug 入门](idea-debug.md)
 - Intellij IDEA GIT 入门
 - [Intellij IDEA 常用快捷键](idea-common-user-key.md)
 - [Intellij IDEA Windows Mac 快捷键对比](idea-compare-window-mac.md) 
@@ -71,7 +71,7 @@
 
 ### 精通 👨🏻
 
-- Intellij IDEA Debug 精通
+- [Intellij IDEA Debug 精通](idea-debug.md)
 - Intellij IDEA GIT 精通
 
 <br/>
