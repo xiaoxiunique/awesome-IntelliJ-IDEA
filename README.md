@@ -1,121 +1,164 @@
-<p align="center">
-  <img width="500px" src="https://gitee.com/xiaoxiunique/picgo-image/raw/master/20200226114101.png">
-</p>
+# Awesome-Intellij IDEA
+
+用爬虫在全网范围内检索 Intellij IDEA 的优秀文章，聚合在此。平台包括 「CSDN」「掘金」「简书」「知乎」「SegmentFault」「博客园」「开源中国」「慕课手记」，相信无论你对 Intellij IDEA 目前了解到什么程度，这个项目都能帮到你。
+
+建议一键三连，持续更新。
 
 
-<p align="center">
-  <a href="https://github.com/xiaoxiunique/tool-tips">
-    <img src="https://img.shields.io/github/stars/xiaoxiunique/tool-tips?style=social">
-  </a>
-  <a href="https://github.com/xiaoxiunique/tool-tips">
-    <img src="https://img.shields.io/github/forks/xiaoxiunique/tool-tips?style=social">
-  </a>
-  <a href="https://github.com/xiaoxiunique/tool-tips">
-    <img src="https://img.shields.io/github/watchers/xiaoxiunique/tool-tips?style=social">
-  </a>
-  <br>
-</p>
+
+## 安装
+
+- [WINDOWS平台下IDEA的安装和配置](https://www.jianshu.com/p/f0d2017194b7) 阅读量: 1244 点赞量: 14
+- [JDK 与 IntelliJ IDEA 安装图文教程](https://www.jianshu.com/p/c63e3ef3a2ac) 阅读量: 9777 点赞量: 11
+
+- [【IntelliJ IDEA学习---二、IntelliJ IDEA的安装与破解（Mac版本）】](https://www.jianshu.com/p/6bca89082a78) 阅读量: 10635 点赞量: 6
+- [Java笔记1：IntelliJ IDEA详细安装步骤](https://blog.csdn.net/haishu_zheng/article/details/50265371) 浏览量：191195
+- [IDEA安装教程（多图预警）](https://blog.csdn.net/a158123/article/details/102690129) 浏览量：89681
+- [【2020】明哥版-Windows/MAC-IntelliJ IDEA最新版安装GIF图解教程](https://blog.csdn.net/weixin_40845165/article/details/80914845) 浏览量：15912
 
 
-<p align="center">IntelliJ IDEA 中文教程, 从入门到精通 开发效率翻倍。</p>
 
-* 💪 IntelliJ IDEA
-* 🔥  JetBrains
+## 设置
 
-<br/>
+- [IDEA——最全配置](https://blog.csdn.net/qq_36135928/article/details/90348725) 浏览量：88438
+- [IDEA类和方法注释模板设置（非常详细）](https://blog.csdn.net/xiaoliulang0324/article/details/79030752) 浏览量：455363
+- [设置 IntelliJ IDEA 主题和字体的方法](https://blog.csdn.net/qq_35246620/article/details/63253518) 浏览量：374900
 
-## 项目由来 🙋🏻‍♂️
+- [「硬核干货」总结 IDEA 开发的26个常用设置](https://juejin.im/post/6844904068163321870) like: 72
+- [IDEA使用总结](https://juejin.im/post/6844903976098332686) like: 51
+- [IntelliJ IDEA设置JVM运行参数](https://blog.csdn.net/sdujava2011/article/details/50086933) 浏览量：175305
+- [intellij idea设置主题、字体样式和背景色](https://blog.csdn.net/fanrenxiang/article/details/80598895) 浏览量：163813
+- [IntelliJ IDEA 设置编码为utf-8编码](https://blog.csdn.net/m0_38132361/article/details/80628203) 浏览量：130940
+- [IntelliJ IDEA 设置Terminal 窗口字体大小](https://blog.csdn.net/wang124454731/article/details/53516434) 浏览量：42092
+- [idea设置live template代码模板](https://blog.csdn.net/shi_hong_fei_hei/article/details/86607823) 浏览量：33562
+- [Intellij IDEA设置HTTP Proxy](https://blog.csdn.net/weixin_30518397/article/details/94858573) 浏览量：12758
+- [idea设置maven配置文件setting.xml的位置](https://blog.csdn.net/fengqing5578/article/details/82854495) 浏览量：72849
 
-来自本人的一个知乎回答:question:
 
-[IntelliJ IDEA 中有什么让你相见恨晚的技巧？](https://www.zhihu.com/question/300830746/answer/672248406?utm_source=wechat_session&utm_medium=social&utm_oi=794623637738123264&hb_wx_block=0)
 
-平时比较热爱探索 IntelliJ IDEA 的快捷之处。更多的喜欢用快捷键进行操作，所以做了很多笔记:books:。个人认为对一个工具熟练之后, 你的编程效率, 和解决问题的效率都能得到大大的提升.
+## 插件
 
-当时看到这个回答的时候只是非常随意的复制:grimacing:，没有想到的是大家的反响还是不错:blush:。我感觉大家好像对某些在我看来非常常用的操作还是很陌生的:sweat_smile:。于是我后续对他做了完善。便就有了这个项目:sunglasses:。
+- [第一弹！安排！安利10个让你爽到爆的IDEA必备插件！](https://juejin.im/post/6844904129169457165) 
+- [Java程序员必备的Intellij插件（长期更新，截止到2018-05-03)](https://www.jianshu.com/p/686ba0ae4ac2)
 
-<br/>
+- [Java效率工具之Intellij IDEA](https://juejin.im/post/6844903609583271949)
 
-## 文档 (Document) 📋
+- [我珍藏的神兵利器 - 效率工具](https://www.liutf.com/posts/3720794851.html)
+- [我常用的IDEA插件大公开，个个是精品！](https://juejin.im/post/6844904158382964744)
+- [10个 解放双手的 IDEA 插件，能自动生成的绝不手写](https://juejin.im/post/6844904159464914951) 
 
-> 温馨提示：Github 上直接浏览，因网络问题可能有的图片展示不出来，可以考虑 Clone 到本地进行查看。
+- [IntelliJ IDEA 常用插件一览，让效率成为习惯](https://juejin.im/post/6844903973057462280) like: 173
 
-<br/>
+- [Java开发提升十倍生产力:Idea远程一键部署springboot到Docker](https://juejin.im/post/6844903865192562696) like: 127
 
-### 入门 👶🏻
+- [EasyCode — 基于 IntelliJ IDEA 开发的代码生成插件](https://www.oschina.net/p/easycode?origin=juejin) like: 119
 
-- [Intellij IDEA 介绍](introduction.md)
-- [Intellij IDEA 安装](idea-install.md)
-- [Intellij IDEA 用户界面概述](idea-user-interface.md)
-- [Intellij IDEA 菜单栏和工具栏](idea-menu-tools.md)
-- [Intellij IDEA 常用设置](idea-common-user-setting.md)
-- [Intellij IDEA 创建第一个新的 Java 项目](idea-create-java-project.md)
-- [Intellij IDEA 插件管理](idea-management-plugin.md)
-- [Intellij IDEA 配置颜色和字体](idea-configure-colors-and-fonts.md)
-- [Intellij IDEA 设置背景图片](idea-setup-background-pictures.md)
+- [Java开发必装的IntelliJ IDEA插件](https://juejin.im/post/6844903620501045255) like: 112
+- [IntelliJ IDEA 18 周岁，吐血推进珍藏已久的必装插件](https://juejin.im/post/6844903764550221838) like: 96
 
-<br/>
+- [我在 IntelliJ IDEA 中必有得插件和配置](https://juejin.im/post/6844904148572323854) like: 77
+- [IntelliJ IDEA安装使用PlantUML插件](https://www.jianshu.com/p/6c4071eac339) 阅读量: 19582 点赞量: 11
 
-### 熟练 👦🏻
 
-- [Intellij IDEA View Mode](idea-view-mode.md)
 
-- [Intellij IDEA Windows Terminal 配置](https://atips.cn/idea/IDEA%20Windows%20Terminal%20%E9%85%8D%E7%BD%AE.html#%E8%AE%BE%E7%BD%AE) 
-- [Intellij IDEA Appearance 工具窗口](idea-appearance-tool-windows.md) 
-- [Intellij IDEA Debug 入门](idea-debug.md)
-- Intellij IDEA GIT 入门
-- [Intellij IDEA 常用快捷键](idea-common-user-key.md)
-- [Intellij IDEA Windows Mac 快捷键对比](idea-compare-window-mac.md) 
+## Git
 
-<br/>
+- [过来人告诉你，去工作前最好还是学学Git](https://juejin.im/post/6844904177009688584) like: 199
 
-### 精通 👨🏻
+- [关于git你日常工作中会用到的一些东西](https://juejin.im/post/6844904037574246408) like: 177
 
-- [Intellij IDEA Debug 精通](idea-debug.md)
-- Intellij IDEA GIT 精通
+- [三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326) like: 1483
+- [最常见的 Git 问题和操作清单汇总](https://juejin.im/post/6844903921425580045) like: 644
+- [超详实Git简明教程与命令大全](https://juejin.im/post/6844903699915997192) like: 562
+- [字节研发设施下的 Git 工作流]() like: 487
+- [Git使用教程：最详细、最傻瓜、最浅显、真正手把手教！](https://mp.weixin.qq.com/s/BHJ44cDhnPQrvqdqowwilg) like: 437
+- [通过 41 个 问答方式快速了解学习 Git]() like: 420
+- [你确定你能记住那么多的git命令吗？快试试Sourcetree吧](https://juejin.im/post/6844903497809281032) like: 387
+- [「备忘录」60+Git常用命令行](https://juejin.im/post/6844904149465710599) like: 304
+- [Git如何回滚一次错误的合并](https://juejin.im/post/6844903647390744589) like: 250
+- [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) like: 220
 
-<br/>
 
-### 超神 👴🏻
 
-- [Intellij IDEA 多光标操作集锦](https://atips.cn/idea/VsCode%20%E5%A4%9A%E5%85%89%E6%A0%87%E6%93%8D%E4%BD%9C%E9%9B%86%E9%94%A6.html)
-- [Intellij IDEA VCS 操作器](idea-vsc-operator.md)
-- [Intellij IDEA QuickList](idea-quicklist.md)
+## SVN
 
-<br/>
+- [IntelliJ IDEA 下的svn配置及使用的非常详细的图文总结](https://blog.csdn.net/qq_27093465/article/details/74898489) 浏览量：317427
 
-### 插件
 
-- [Intellij IDEA 插件 Git Flow](https://atips.cn/idea/IDEA%20%E6%8F%92%E4%BB%B6%20Git%20Flow.html)
-- [Intellij IDEA 插件 AlibabaCloudToolkit](https://atips.cn/idea/IDEA%20%E6%8F%92%E4%BB%B6%20AlibabaCloudToolkit.html)
-- [Intellij IDEA 插件 PlantUML](https://atips.cn/idea/IDEA%20%E6%8F%92%E4%BB%B6%20PlantUML.html)
-- [Intellij IDEA 插件 阿里巴巴编码规范](https://atips.cn/idea/IDEA%20%E6%8F%92%E4%BB%B6%20%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.html)
-- Intellij IDEA 插件 Ace Jump
-- [Intellij IDEA 插件 RestfulToolkit](idea-plugin-restful-toolkit.md)
-- [Intellij IDEA 插件 Lombok](idea-plugin-lombok.md)
-- [Intellij IDEA 插件 Codota](idea-plugin-codota.md)
-- [Intellij IDEA 插件 GsonFormat](idea-plugin-gsonformat.md)
-- [Intellij IDEA 插件 jclasslib bytecode viewer](idea-plugin-jclasslib-bytecode-viewer.md)
 
-<br/>
+## 技巧
 
-### 多光标练习小课堂
+- [IDEA 不为人知的 5 个骚技巧！真香！](https://juejin.im/post/6846687591199145998) like: 121
+- [Intellij IDEA神器居然还有这些小技巧](https://mp.weixin.qq.com/s/ISKS8j5oRWYlXszXV1xBPQ) like: 84
+- [动图展示 IDEA 2020 新特性（1）]() like: 46
+- [6 个珍藏已久 IDEA 小技巧，这一波全部分享给你！](https://juejin.im/post/6850037272159453191) like: 34
+- [IDEA 小技巧之书签与收藏](https://juejin.im/post/6844903861958737934) like: 14
+- [IDEA中编写并运行shell脚本](https://blog.csdn.net/u012443641/article/details/81295999) 浏览量：52775
 
-授人以鱼不如授人以渔，在和同事们接触发现，在我最开始为他们演示多光标的时候。大多两眼放光，但后面自己操作的时候，瞬间感觉自己身体都不协调了。所以这里循序渐进进行练习，希望大家都能学会，提升工作效率。
 
-- Intellij IDEA 多光标练习第一课，快捷键概览
-- Intellij IDEA 多光标练习第二课，镜像转移
-- Intellij IDEA 多光标练习第三课，异形换位
-- Intellij IDEA 多光标练习第四课，交头接耳
-- Intellij IDEA 多光标练习作业
 
-<br/>
+## 快捷键
 
-### 白嫖 下次一定
+- [十大Intellij IDEA快捷键](https://blog.csdn.net/dc_726/article/details/42784275) 浏览量：635923
+- [Idea快捷键大全（Windows）](https://blog.csdn.net/qq_38963960/article/details/89552704) 浏览量：215045
+- [idea修改快捷键方法总结](https://blog.csdn.net/xinghuo0007/article/details/78441574) 浏览量：179768
+- [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249) 浏览量：177429
+- [IntelliJ IDEA添加注释常用的快捷键](https://blog.csdn.net/wyf2017/article/details/81178675) 浏览量：172638
+- [Mac下IntelliJ IDEA快捷键大全](https://blog.csdn.net/lisongjia123/article/details/54949364) 浏览量：76921
+- [IDEA for mac 快捷键](https://blog.csdn.net/zhangt85/article/details/43670359) 浏览量：60544
+- [IntelliJ IDEA 常用快捷键 之 Mac 版](https://blog.csdn.net/qq_35246620/article/details/78263380) 浏览量：48087
+- [IntelliJ IDEA设置快捷键为Eclipse风格](https://blog.csdn.net/jarniyy/article/details/79959303) 浏览量：22034
 
-- [Intellij IDEA 全部插件下载汇总](https://github.com/xiaoxiunique/tool-tips/tree/master/plugins)
 
-<br/>
+
+## Java 
+
+- [IntelliJ IDEA 如何创建一个普通的 Java 项目，及创建 Java 文件并运行](https://blog.csdn.net/oschina_41790905/article/details/79475187) 浏览量：185371
+- [【IDEA】向IntelliJ IDEA创建的项目导入Jar包的两种方式](https://blog.csdn.net/qq_26525215/article/details/53239123) 浏览量：146782
+- [IntelliJ IDEA 创建 hello world Java web Maven项目从头到尾都有图有真相2017版本](https://blog.csdn.net/qq_27093465/article/details/63683873) 浏览量：68686
+- [详尽图文，用Intellij Idea创建一个普通的Java工程并用JDBC连接数据库](https://blog.csdn.net/u012075383/article/details/78254482) 浏览量：32316
+- [使用IntelliJ IDEA，gradle开发Java web应用步骤](https://blog.csdn.net/LANGZI7758521/article/details/51612603) 浏览量：11209
+
+
+
+## Debug
+
+- [idea远程调试，一个用上就被老大表扬的黑科技](https://juejin.im/post/6844904196664197134) like: 71
+- [举个小栗子🌰IDEA远程Debug及使用场景](https://juejin.im/post/6844904071204339725) like: 12
+- [IDEA中如何使用debug调试项目 一步一步详细教程](https://blog.csdn.net/yxl_1207/article/details/80973622) 浏览量：211593
+- [Intellij IDEA 2017 debug断点调试技巧与总结详解篇](https://blog.csdn.net/qq_27093465/article/details/64124330) 浏览量：241596
+- [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034) 浏览量：166002
+- [Intellij IDEA Debug调试技巧](https://blog.csdn.net/u010084868/article/details/52711787) 浏览量：121398
+- [idea debug 无法启动项目解决 Unable to open debugger port (127.0.0.1:50812)](https://blog.csdn.net/qq_34360219/article/details/76169653) 浏览量：41242
+
+
+
+## 新版本
+
+- [IntelliJ IDEA 2020.3正式发布，年度最后一个版本很讲武德]() like: 8
+- [IntelliJ IDEA 2020.1正式发布，你要的Almost都在这！](https://blog.csdn.net/f641385712/article/details/105435920) 浏览量：36378
+- [IntelliJ IDEA 2020.1 正式发布，15 项重大特性、官方支持中文了！ | 原力计划](https://blog.csdn.net/csdnnews/article/details/105463271) 浏览量：10286
+- [IDEA 2020最新版本](https://blog.csdn.net/weixin_45794138/article/details/104842893) 浏览量：12042
+- [idea系列之-2019.3版本新特性及安装一](https://blog.csdn.net/weinichendian/article/details/103387283) 浏览量：23330
+- [IDEA：Debug使用详解（含2018版特性）](https://blog.csdn.net/fly910905/article/details/80013391) 浏览量：26645
+- [Intellij IDEA神器常用技巧八-2018版本新增快捷键](https://blog.csdn.net/liu19900205/article/details/80851864) 浏览量：3667
+- [Intellij IDEA 2017新特性之Spring Boot相关](https://blog.csdn.net/wo541075754/article/details/77504461) 浏览量：13922
+
+
+
+## 微服务
+
+- [一键部署 Spring Boot 到远程 Docker 容器，就是这么秀！](https://juejin.im/post/6844903927964499975) like: 72
+
+- [使用IntelliJ IDEA 搭建 spring mvc开发环境](https://juejin.im/post/6844903554549825544) like: 40
+
+
+
+## Tips
+
+如果恰巧你看完这么多优秀的文章都还没学会 Intellij IDEA ，这。。。。 请联系我，我亲自教你。
+
+
 
 ## 联系(Contact)
 
