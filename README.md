@@ -6,6 +6,28 @@
 
 
 
+**文末有不可描述的内容** 💩💩💩
+
+
+
+- [IntelliJ IDEA 中有什么让你相见恨晚的技巧？](https://www.zhihu.com/question/300830746/answer/672248406) 浏览量：707,317
+
+## 知乎话题
+
+- [IntelliJ *IDEA* 中有什么让你相见恨晚的技巧？](https://www.zhihu.com/question/300830746/answer/672248406) 浏览量：707,317
+
+- [相比 Eclipse，IntelliJ IDEA 有哪些更强的优势或使用技巧？](https://www.zhihu.com/question/29076145/answer/80398943) 浏览量：346878
+
+- [公司不让用IDEA，必须要用eclipse。大神们怎么看待这个强制规定？](https://www.zhihu.com/question/278266025/answer/1424544138) 浏览量：936885
+
+- [IntelliJ IDEA 如何学习？](https://www.zhihu.com/question/53659760/answer/212322166) 浏览量： 199277
+
+- [自学Java用IDEA真的是在作吗？](https://www.zhihu.com/question/64467106/answer/624940379)
+
+- [选择IDEA还是Eclipse？](https://www.zhihu.com/question/305591091/answer/551945200) 浏览量：42653
+
+
+
 ## 安装
 
 - [WINDOWS平台下IDEA的安装和配置](https://www.jianshu.com/p/f0d2017194b7) 阅读量: 1244 点赞量: 14
@@ -154,9 +176,33 @@
 
 
 
+### 教程网站
+
+- [IntelliJ IDEA使用教程](http://www.phperz.com/special/83.html)
+- [how2j](https://how2j.cn/k/idea/idea-download-install/1348.html?tid=95)
+- [多光标教学](atips.cn/idea)
+- [IntelliJ-IDEA-Tutorial](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
+
+
+
+### POJIE
+
+你懂的。。。🤪🤪🤪
+
+- [lookdiv](http://www.lookdiv.com/) 
+- [medeming](http://idea.medeming.com/jets/)
+
+
+
 ## Tips
 
 如果恰巧你看完这么多优秀的文章都还没学会 Intellij IDEA ，这。。。。 请联系我，我亲自教你。
+
+
+
+## Star
+
+都到这了，点个 star 吧
 
 
 
