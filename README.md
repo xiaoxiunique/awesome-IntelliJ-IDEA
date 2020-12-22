@@ -1,8 +1,7 @@
 <p align="center">
-  <img width="400px" src="https://gitee.com/xiaoxiunique/picgo-image/raw/master/atips/awesome-idea-no-text.svg">
+  <img width="250px" src="https://gitee.com/xiaoxiunique/picgo-image/raw/master/atips/awesome-idea-no-text.svg">
 </p>
 
-<br/>
 <h1 align="center">Awesome-Intellij IDEA</h1>
 
 <br/>
