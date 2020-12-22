@@ -1,4 +1,11 @@
-# Awesome-Intellij IDEA
+<p align="center">
+  <img width="400px" src="https://gitee.com/xiaoxiunique/picgo-image/raw/master/atips/awesome-idea-no-text.svg">
+</p>
+
+<br/>
+<h1 align="center">Awesome-Intellij IDEA</h1>
+
+<br/>
 
 用爬虫在全网范围内检索 Intellij IDEA 的优秀文章，聚合在此。平台包括 「CSDN」「掘金」「简书」「知乎」「SegmentFault」「博客园」「开源中国」「慕课手记」，相信无论你对 Intellij IDEA 目前了解到什么程度，这个项目都能帮到你。
 
