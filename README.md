@@ -191,6 +191,7 @@
 
 - [lookdiv](http://www.lookdiv.com/) 
 - [medeming](http://idea.medeming.com/jets/)
+- [Idea 重置试用时间方法](https://zhile.io/2020/11/18/jetbrains-eval-reset.html)
 
 
 
