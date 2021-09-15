@@ -187,16 +187,6 @@
 
 
 
-### POJIE
-
-你懂的。。。🤪🤪🤪
-
-- [lookdiv](http://www.lookdiv.com/) 
-- [medeming](http://idea.medeming.com/jets/)
-- [Idea 重置试用时间方法](https://zhile.io/2020/11/18/jetbrains-eval-reset.html)
-
-
-
 ## Tips
 
 如果恰巧你看完这么多优秀的文章都还没学会 Intellij IDEA ，这。。。。 请联系我，我亲自教你。
