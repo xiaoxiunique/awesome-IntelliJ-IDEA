@@ -1,0 +1,32 @@
+{
+  "name": "tool-tips",
+  "version": "1.0.0",
+  "description": "idea tools",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiunique/tool-tips.git"
+  },
+  "keywords": [
+    "idea",
+    "tools",
+    "plugns"
+  ],
+  "author": "xiaoxiunqiue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoxiunique/tool-tips/issues"
+  },
+  "homepage": "https://github.com/xiaoxiunique/tool-tips#readme"
+}
