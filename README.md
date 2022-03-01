@@ -8,7 +8,7 @@
 
 用爬虫在全网范围内检索 Intellij IDEA 的优秀文章，聚合在此。平台包括 「CSDN」「掘金」「简书」「知乎」「SegmentFault」「博客园」「开源中国」「慕课手记」，相信无论你对 Intellij IDEA 目前了解到什么程度，这个项目都能帮到你。
 
-建议一键三连，持续更新。
+![mp](https://user-images.githubusercontent.com/27221739/156200115-8bbca1b0-87a4-4615-bef8-26621411fef7.png)
 
 
 <br/>
