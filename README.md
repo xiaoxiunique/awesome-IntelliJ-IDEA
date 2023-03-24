@@ -1,9 +1,4 @@
 
-![mp](https://user-images.githubusercontent.com/27221739/156200115-8bbca1b0-87a4-4615-bef8-26621411fef7.png)
-
-
-<br/>
-
 ## 公众号更新
 
 - [AI 提示 「这代码写的烂」](http://mp.weixin.qq.com/s?__biz=MzI4MjQ1NDU3NQ==&amp;mid=2247483815&amp;idx=1&amp;sn=648f60a3e6d5689f199d0f293363c574&amp;chksm=eb98fee7dcef77f19fb9d5cc199710a3912984364c2b9403f596294030a85899b05c7c182d6f&amp;scene=27#wechat_redirect) 
