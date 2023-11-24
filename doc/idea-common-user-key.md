@@ -174,7 +174,7 @@ ctrl + n
 ##### 快速生成 `try, if` 等语句
 
 ```
-alt + shift + t
+ctrl + shift + t
 ```
 
 > 当你试用了之后, 你会爱上这个快捷键的
